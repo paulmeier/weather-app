@@ -1,6 +1,6 @@
 # weather-app
 
-A weather nodejs app to pull in geocode api information and scrape weather status.
+A weather nodejs app to pull in geocode api information from google and scrape weather status.
 
 npm install
 
